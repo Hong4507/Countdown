@@ -1,6 +1,6 @@
 const elements = [...document.querySelectorAll("span p:nth-child(1)")].reverse(),
     mod = [1000, 60, 60, 24],
-    time = Date.parse("2022/1/1");
+    time = Date.parse("2022/5/21");
 const loop = () => {
     var countdown = time - Date.now();
     for (const key in elements) {
