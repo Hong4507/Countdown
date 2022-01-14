@@ -1,2 +1,2 @@
 # Countdown
-Created with CodeSandbox
+A simple countdown timer.
